@@ -6,7 +6,7 @@ import time
 
 
 my_gmail = "russnicosia.auto@gmail.com"
-my_gmail_password = "cmibneqfnjiclvnm"
+my_gmail_password = ""
 MY_LAT = 39.556975 # Your latitude
 MY_LONG = -104.915242 # Your longitude
 time_now = datetime.now()
